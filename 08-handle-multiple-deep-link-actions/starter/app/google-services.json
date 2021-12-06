@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "676633674148",
+    "project_id": "deeplinkingtutorial",
+    "storage_bucket": "deeplinkingtutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676633674148:android:48992cb4c12b3bb5690131",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.android.cocktailmakerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676633674148-b9ph20o6g7j36mq482vvpierllcbrua9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raywenderlich.android.cocktailmakerapp",
+            "certificate_hash": "7ed3e9e376bb8633f06f83a11022acf0ba0004cf"
+          }
+        },
+        {
+          "client_id": "676633674148-2ausq7dvtv8lrbq2epfp6tcqjv9b8jgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTDedg69STPLEPUCgdKnzSArAE4opdeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676633674148-2ausq7dvtv8lrbq2epfp6tcqjv9b8jgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
